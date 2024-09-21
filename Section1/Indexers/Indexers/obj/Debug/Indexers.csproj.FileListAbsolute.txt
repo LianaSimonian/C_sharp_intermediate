@@ -1,0 +1,7 @@
+D:\Users\user\source\repos\Indexers\Indexers\bin\Debug\Indexers.exe.config
+D:\Users\user\source\repos\Indexers\Indexers\bin\Debug\Indexers.exe
+D:\Users\user\source\repos\Indexers\Indexers\bin\Debug\Indexers.pdb
+D:\Users\user\source\repos\Indexers\Indexers\obj\Debug\Indexers.csproj.AssemblyReference.cache
+D:\Users\user\source\repos\Indexers\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+D:\Users\user\source\repos\Indexers\Indexers\obj\Debug\Indexers.exe
+D:\Users\user\source\repos\Indexers\Indexers\obj\Debug\Indexers.pdb
