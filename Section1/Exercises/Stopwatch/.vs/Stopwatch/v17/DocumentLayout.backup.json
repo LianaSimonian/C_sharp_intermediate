@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section1\\Exercises\\Stopwatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{121640C6-42B8-4757-8BB7-35ACA955759A}|Stopwatch\\Stopwatch.csproj|d:\\users\\user\\source\\repos\\lrepository\\section1\\exercises\\stopwatch\\stopwatch\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121640C6-42B8-4757-8BB7-35ACA955759A}|Stopwatch\\Stopwatch.csproj|solutionrelative:stopwatch\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121640C6-42B8-4757-8BB7-35ACA955759A}|Stopwatch\\Stopwatch.csproj|d:\\users\\user\\source\\repos\\lrepository\\section1\\exercises\\stopwatch\\stopwatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121640C6-42B8-4757-8BB7-35ACA955759A}|Stopwatch\\Stopwatch.csproj|solutionrelative:stopwatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stopwatch.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section1\\Exercises\\Stopwatch\\Stopwatch\\Stopwatch.cs",
+              "RelativeDocumentMoniker": "Stopwatch\\Stopwatch.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section1\\Exercises\\Stopwatch\\Stopwatch\\Stopwatch.cs",
+              "RelativeToolTip": "Stopwatch\\Stopwatch.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T09:16:15.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section1\\Exercises\\Stopwatch\\Stopwatch\\Program.cs",
+              "RelativeDocumentMoniker": "Stopwatch\\Program.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section1\\Exercises\\Stopwatch\\Stopwatch\\Program.cs",
+              "RelativeToolTip": "Stopwatch\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:38:42.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
