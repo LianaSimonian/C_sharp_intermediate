@@ -1,0 +1,7 @@
+D:\Users\user\source\repos\ObjectInitializer\ObjectInitializer\bin\Debug\ObjectInitializer.exe.config
+D:\Users\user\source\repos\ObjectInitializer\ObjectInitializer\bin\Debug\ObjectInitializer.exe
+D:\Users\user\source\repos\ObjectInitializer\ObjectInitializer\bin\Debug\ObjectInitializer.pdb
+D:\Users\user\source\repos\ObjectInitializer\ObjectInitializer\obj\Debug\ObjectInitializer.csproj.AssemblyReference.cache
+D:\Users\user\source\repos\ObjectInitializer\ObjectInitializer\obj\Debug\ObjectInitializer.csproj.CoreCompileInputs.cache
+D:\Users\user\source\repos\ObjectInitializer\ObjectInitializer\obj\Debug\ObjectInitializer.exe
+D:\Users\user\source\repos\ObjectInitializer\ObjectInitializer\obj\Debug\ObjectInitializer.pdb
