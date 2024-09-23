@@ -1,0 +1,7 @@
+D:\Users\user\source\repos\LRepository\Section2\Composition\Composition\bin\Debug\Composition.exe.config
+D:\Users\user\source\repos\LRepository\Section2\Composition\Composition\bin\Debug\Composition.exe
+D:\Users\user\source\repos\LRepository\Section2\Composition\Composition\bin\Debug\Composition.pdb
+D:\Users\user\source\repos\LRepository\Section2\Composition\Composition\obj\Debug\Composition.csproj.AssemblyReference.cache
+D:\Users\user\source\repos\LRepository\Section2\Composition\Composition\obj\Debug\Composition.csproj.CoreCompileInputs.cache
+D:\Users\user\source\repos\LRepository\Section2\Composition\Composition\obj\Debug\Composition.exe
+D:\Users\user\source\repos\LRepository\Section2\Composition\Composition\obj\Debug\Composition.pdb
