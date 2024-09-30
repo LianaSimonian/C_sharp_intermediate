@@ -1,0 +1,4 @@
+topic
+
+abstract modifier
+rules about abstract classes and members.
