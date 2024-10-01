@@ -12,7 +12,7 @@ namespace DbConnection
         {   
             Console.WriteLine("Opening SQLConnection ");
             if (TimeOut.Seconds > 10)
-                throw new TimeoutException("sql Connection is up ");
+                throw new TimeoutException("sql Connection time is up ");
         }
         public override void Close()
         {
