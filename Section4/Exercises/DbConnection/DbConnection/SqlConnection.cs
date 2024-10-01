@@ -4,13 +4,15 @@ namespace DbConnection
 {
     internal class SqlConnection : DbConnection
     {
-        public SqlConnection(string connectionString) : base(connectionString)
+        public SqlConnection(string connectionString,TimeSpan timeOut) : base(connectionString,timeOut)
         {
         }
 
         public override void Open()
-        {
+        {   
             Console.WriteLine("Opening SQLConnection ");
+            if (TimeOut.Seconds > 10)
+                throw new TimeoutException("sql Connection is up ");
         }
         public override void Close()
         {

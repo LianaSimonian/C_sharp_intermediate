@@ -7,7 +7,7 @@ namespace DbConnection
         public string ConnectionString { get; private set; }
         public TimeSpan TimeOut { get; set; }
 
-        public DbConnection(string connectionString)
+        public DbConnection(string connectionString,TimeSpan timeOut)
         { 
             if (connectionString == null)
                 throw new ArgumentNullException("ConnectionString cannot be Null");
@@ -15,6 +15,7 @@ namespace DbConnection
                 throw new ArgumentException("ConnectionString cannot be empty");
 
             ConnectionString = connectionString;
+            TimeOut = timeOut;
         }
 
         public abstract void Open();
