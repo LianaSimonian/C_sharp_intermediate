@@ -2,7 +2,7 @@
 
 namespace DbConnection
 {
-    internal class SqlConnection : DbConnection
+    public class SqlConnection : DbConnection
     {
         public SqlConnection(string connectionString,TimeSpan timeOut) : base(connectionString,timeOut)
         {

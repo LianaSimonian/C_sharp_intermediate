@@ -2,7 +2,7 @@
 
 namespace DbConnection
 {
-    internal abstract class DbConnection
+    public abstract class DbConnection
     {
         public string ConnectionString { get; private set; }
         public TimeSpan TimeOut { get; set; }

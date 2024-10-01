@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Exercise\\Stack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A422EA84-8F09-420F-9A16-667301A746DF}|Stack\\Stack.csproj|d:\\users\\user\\source\\repos\\lrepository\\section3\\exercise\\stack\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A422EA84-8F09-420F-9A16-667301A746DF}|Stack\\Stack.csproj|solutionrelative:stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A422EA84-8F09-420F-9A16-667301A746DF}|Stack\\Stack.csproj|d:\\users\\user\\source\\repos\\lrepository\\section3\\exercise\\stack\\stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A422EA84-8F09-420F-9A16-667301A746DF}|Stack\\Stack.csproj|solutionrelative:stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A422EA84-8F09-420F-9A16-667301A746DF}|Stack\\Stack.csproj|d:\\users\\user\\source\\repos\\lrepository\\section3\\exercise\\stack\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A422EA84-8F09-420F-9A16-667301A746DF}|Stack\\Stack.csproj|solutionrelative:stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Stack.cs",
               "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Exercise\\Stack\\Stack\\Stack.cs",
               "RelativeDocumentMoniker": "Stack\\Stack.cs",
               "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Exercise\\Stack\\Stack\\Stack.cs",
               "RelativeToolTip": "Stack\\Stack.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T09:51:37.714Z",
               "IsPinned": true,
@@ -44,13 +44,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Exercise\\Stack\\Stack\\Program.cs",
               "RelativeDocumentMoniker": "Stack\\Program.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Exercise\\Stack\\Stack\\Program.cs*",
-              "RelativeToolTip": "Stack\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Exercise\\Stack\\Stack\\Program.cs",
+              "RelativeToolTip": "Stack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T17:28:25.055Z",
               "EditorCaption": ""

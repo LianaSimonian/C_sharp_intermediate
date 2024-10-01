@@ -2,7 +2,7 @@
 
 namespace DbConnection
 {
-    internal class OracleConnection : DbConnection
+    public class OracleConnection : DbConnection
     {
         public OracleConnection(string connectionString, TimeSpan timeOut) : base(connectionString, timeOut)
         {
