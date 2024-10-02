@@ -1,0 +1,7 @@
+D:\Users\user\source\repos\LRepository\Section5\Testability\Testability\bin\Debug\Testability.exe.config
+D:\Users\user\source\repos\LRepository\Section5\Testability\Testability\bin\Debug\Testability.exe
+D:\Users\user\source\repos\LRepository\Section5\Testability\Testability\bin\Debug\Testability.pdb
+D:\Users\user\source\repos\LRepository\Section5\Testability\Testability\obj\Debug\Testability.csproj.AssemblyReference.cache
+D:\Users\user\source\repos\LRepository\Section5\Testability\Testability\obj\Debug\Testability.csproj.CoreCompileInputs.cache
+D:\Users\user\source\repos\LRepository\Section5\Testability\Testability\obj\Debug\Testability.exe
+D:\Users\user\source\repos\LRepository\Section5\Testability\Testability\obj\Debug\Testability.pdb
