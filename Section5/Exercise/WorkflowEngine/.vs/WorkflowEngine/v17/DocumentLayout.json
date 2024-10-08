@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Exercise\\WorkflowEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A120319A-5F17-420E-83E8-03CA910AD8DE}|WorkflowEngine\\WorkflowEngine.csproj|d:\\users\\user\\source\\repos\\lrepository\\section5\\exercise\\workflowengine\\workflowengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A120319A-5F17-420E-83E8-03CA910AD8DE}|WorkflowEngine\\WorkflowEngine.csproj|solutionrelative:workflowengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A120319A-5F17-420E-83E8-03CA910AD8DE}|WorkflowEngine\\WorkflowEngine.csproj|d:\\users\\user\\source\\repos\\lrepository\\section5\\exercise\\workflowengine\\workflowengine\\workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A120319A-5F17-420E-83E8-03CA910AD8DE}|WorkflowEngine\\WorkflowEngine.csproj|solutionrelative:workflowengine\\workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A120319A-5F17-420E-83E8-03CA910AD8DE}|WorkflowEngine\\WorkflowEngine.csproj|d:\\users\\user\\source\\repos\\lrepository\\section5\\exercise\\workflowengine\\workflowengine\\workflowengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A120319A-5F17-420E-83E8-03CA910AD8DE}|WorkflowEngine\\WorkflowEngine.csproj|D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Exercise\\WorkflowEngine\\workflowengine\\workflowengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A120319A-5F17-420E-83E8-03CA910AD8DE}|WorkflowEngine\\WorkflowEngine.csproj|solutionrelative:workflowengine\\workflowengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A120319A-5F17-420E-83E8-03CA910AD8DE}|WorkflowEngine\\WorkflowEngine.csproj|D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Exercise\\WorkflowEngine\\workflowengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A120319A-5F17-420E-83E8-03CA910AD8DE}|WorkflowEngine\\WorkflowEngine.csproj|solutionrelative:workflowengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WorkflowEngine.cs",
               "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Exercise\\WorkflowEngine\\WorkflowEngine\\WorkflowEngine.cs",
               "RelativeDocumentMoniker": "WorkflowEngine\\WorkflowEngine.cs",
@@ -46,25 +46,24 @@
               "RelativeToolTip": "WorkflowEngine\\WorkflowEngine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T16:23:18.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T16:23:18.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Workflow.cs",
               "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Exercise\\WorkflowEngine\\WorkflowEngine\\Workflow.cs",
               "RelativeDocumentMoniker": "WorkflowEngine\\Workflow.cs",
               "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Exercise\\WorkflowEngine\\WorkflowEngine\\Workflow.cs",
               "RelativeToolTip": "WorkflowEngine\\Workflow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T16:12:45.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Exercise\\WorkflowEngine\\WorkflowEngine\\Program.cs",
               "RelativeDocumentMoniker": "WorkflowEngine\\Program.cs",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "WorkflowEngine\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T15:57:17.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T15:57:17.884Z"
             }
           ]
         }
