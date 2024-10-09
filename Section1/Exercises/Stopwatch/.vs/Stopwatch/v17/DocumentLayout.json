@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository \u2014 \u043A\u043E\u043F\u0438\u044F\\Section1\\Exercises\\Stopwatch\\",
+=======
   "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section1\\Exercises\\Stopwatch\\",
+>>>>>>> 752515e8f09623e2a5b167eb5ebdfd4e3d98f4c4
   "Documents": [],
   "DocumentGroupContainers": [
     {

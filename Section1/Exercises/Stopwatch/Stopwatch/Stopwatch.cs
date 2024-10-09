@@ -11,7 +11,7 @@ namespace Stopwatch
         public void start()
         {
             if (_isRunning)
-                throw new InvalidOperationException("Stopwatch is already running.please stop before starting a new one.");
+                throw new InvalidOperationException(" Stopwatch is already running.please stop before starting a new one.");
 
             _startTime = DateTime.Now;
             _isRunning = true;
