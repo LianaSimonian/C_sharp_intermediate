@@ -6,13 +6,3 @@
 
 bin/
 obj/
-*.dll 
-*.exe 
-
-# Configuration Files
-
-*.config
-
-# Dependency Files
-
-.csproj
