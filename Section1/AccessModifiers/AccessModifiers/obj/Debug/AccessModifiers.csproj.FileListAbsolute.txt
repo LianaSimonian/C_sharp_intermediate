@@ -5,3 +5,5 @@ D:\Users\user\source\repos\AccessModifiers\AccessModifiers\obj\Debug\AccessModif
 D:\Users\user\source\repos\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
 D:\Users\user\source\repos\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
 D:\Users\user\source\repos\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb
+D:\Users\user\source\repos\LRepository — копия\Section1\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+D:\Users\user\source\repos\LRepository — копия\Section1\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb

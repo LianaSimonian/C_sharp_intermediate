@@ -5,3 +5,10 @@ D:\Users\user\source\repos\Properties\Properties\obj\Debug\Properties.csproj.Ass
 D:\Users\user\source\repos\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
 D:\Users\user\source\repos\Properties\Properties\obj\Debug\Properties.exe
 D:\Users\user\source\repos\Properties\Properties\obj\Debug\Properties.pdb
+D:\Users\user\source\repos\LRepository — копия\Section1\Properties\Properties\bin\Debug\Properties.exe.config
+D:\Users\user\source\repos\LRepository — копия\Section1\Properties\Properties\bin\Debug\Properties.exe
+D:\Users\user\source\repos\LRepository — копия\Section1\Properties\Properties\bin\Debug\Properties.pdb
+D:\Users\user\source\repos\LRepository — копия\Section1\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+D:\Users\user\source\repos\LRepository — копия\Section1\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\Users\user\source\repos\LRepository — копия\Section1\Properties\Properties\obj\Debug\Properties.exe
+D:\Users\user\source\repos\LRepository — копия\Section1\Properties\Properties\obj\Debug\Properties.pdb
