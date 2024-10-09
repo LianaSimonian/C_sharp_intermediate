@@ -1,0 +1,11 @@
+D:\Users\user\source\repos\LRepository\Section4\Exercises\DbCommand\DbCommand\bin\Debug\DbCommand.exe.config
+D:\Users\user\source\repos\LRepository\Section4\Exercises\DbCommand\DbCommand\bin\Debug\DbCommand.exe
+D:\Users\user\source\repos\LRepository\Section4\Exercises\DbCommand\DbCommand\bin\Debug\DbCommand.pdb
+D:\Users\user\source\repos\LRepository\Section4\Exercises\DbCommand\DbCommand\bin\Debug\DbConnection.exe
+D:\Users\user\source\repos\LRepository\Section4\Exercises\DbCommand\DbCommand\bin\Debug\DbConnection.pdb
+D:\Users\user\source\repos\LRepository\Section4\Exercises\DbCommand\DbCommand\bin\Debug\DbConnection.exe.config
+D:\Users\user\source\repos\LRepository\Section4\Exercises\DbCommand\DbCommand\obj\Debug\DbCommand.csproj.AssemblyReference.cache
+D:\Users\user\source\repos\LRepository\Section4\Exercises\DbCommand\DbCommand\obj\Debug\DbCommand.csproj.CoreCompileInputs.cache
+D:\Users\user\source\repos\LRepository\Section4\Exercises\DbCommand\DbCommand\obj\Debug\DbCommand.csproj.Up2Date
+D:\Users\user\source\repos\LRepository\Section4\Exercises\DbCommand\DbCommand\obj\Debug\DbCommand.exe
+D:\Users\user\source\repos\LRepository\Section4\Exercises\DbCommand\DbCommand\obj\Debug\DbCommand.pdb
