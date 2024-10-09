@@ -1,0 +1,7 @@
+D:\Users\user\source\repos\LRepository\Section5\Extensibility\Extensibility\bin\Debug\Extensibility.exe.config
+D:\Users\user\source\repos\LRepository\Section5\Extensibility\Extensibility\bin\Debug\Extensibility.exe
+D:\Users\user\source\repos\LRepository\Section5\Extensibility\Extensibility\bin\Debug\Extensibility.pdb
+D:\Users\user\source\repos\LRepository\Section5\Extensibility\Extensibility\obj\Debug\Extensibility.csproj.AssemblyReference.cache
+D:\Users\user\source\repos\LRepository\Section5\Extensibility\Extensibility\obj\Debug\Extensibility.csproj.CoreCompileInputs.cache
+D:\Users\user\source\repos\LRepository\Section5\Extensibility\Extensibility\obj\Debug\Extensibility.exe
+D:\Users\user\source\repos\LRepository\Section5\Extensibility\Extensibility\obj\Debug\Extensibility.pdb
