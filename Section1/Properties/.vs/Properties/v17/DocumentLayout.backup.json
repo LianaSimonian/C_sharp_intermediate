@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\Properties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5CA65-EC05-4DBC-B663-E28F78C7610F}|Properties\\Properties.csproj|d:\\users\\user\\source\\repos\\properties\\properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5CA65-EC05-4DBC-B663-E28F78C7610F}|Properties\\Properties.csproj|solutionrelative:properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5CA65-EC05-4DBC-B663-E28F78C7610F}|Properties\\Properties.csproj|d:\\users\\user\\source\\repos\\properties\\properties\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5CA65-EC05-4DBC-B663-E28F78C7610F}|Properties\\Properties.csproj|solutionrelative:properties\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\Properties\\Properties\\Person.cs",
+              "RelativeDocumentMoniker": "Properties\\Person.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\Properties\\Properties\\Person.cs",
+              "RelativeToolTip": "Properties\\Person.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:58:04.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\Properties\\Properties\\Program.cs",
+              "RelativeDocumentMoniker": "Properties\\Program.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\Properties\\Properties\\Program.cs",
+              "RelativeToolTip": "Properties\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:56:15.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
