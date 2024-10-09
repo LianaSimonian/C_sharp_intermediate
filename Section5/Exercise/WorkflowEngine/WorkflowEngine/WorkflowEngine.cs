@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 namespace WorkflowEngine
 {
     internal class WorkflowEngine
