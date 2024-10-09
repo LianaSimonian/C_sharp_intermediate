@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section2\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{538AA14C-788D-4DDF-8651-605B1763348C}|Inheritance\\Inheritance.csproj|d:\\users\\user\\source\\repos\\lrepository\\section2\\inheritance\\inheritance\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538AA14C-788D-4DDF-8651-605B1763348C}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538AA14C-788D-4DDF-8651-605B1763348C}|Inheritance\\Inheritance.csproj|d:\\users\\user\\source\\repos\\lrepository\\section2\\inheritance\\inheritance\\presentationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538AA14C-788D-4DDF-8651-605B1763348C}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\presentationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538AA14C-788D-4DDF-8651-605B1763348C}|Inheritance\\Inheritance.csproj|d:\\users\\user\\source\\repos\\lrepository\\section2\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538AA14C-788D-4DDF-8651-605B1763348C}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Text.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section2\\Inheritance\\Inheritance\\Text.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Text.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section2\\Inheritance\\Inheritance\\Text.cs",
+              "RelativeToolTip": "Inheritance\\Text.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:45:58.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PresentationObject.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section2\\Inheritance\\Inheritance\\PresentationObject.cs",
+              "RelativeDocumentMoniker": "Inheritance\\PresentationObject.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section2\\Inheritance\\Inheritance\\PresentationObject.cs",
+              "RelativeToolTip": "Inheritance\\PresentationObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:27:07.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section2\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section2\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:26:31.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

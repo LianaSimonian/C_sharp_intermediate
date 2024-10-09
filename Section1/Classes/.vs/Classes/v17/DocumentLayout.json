@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section1\\Classes\\",
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\Classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AD2712F-F34A-4356-A4A7-6FFC249BF5F9}|Classes\\Classes.csproj|d:\\users\\user\\source\\repos\\lrepository\\section1\\classes\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AD2712F-F34A-4356-A4A7-6FFC249BF5F9}|Classes\\Classes.csproj|solutionrelative:classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\user\\source\\repos\\Classes\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AD2712F-F34A-4356-A4A7-6FFC249BF5F9}|Classes\\Classes.csproj|d:\\users\\user\\source\\repos\\lrepository\\section1\\classes\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AD2712F-F34A-4356-A4A7-6FFC249BF5F9}|Classes\\Classes.csproj|solutionrelative:classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\user\\source\\repos\\Classes\\Classes\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Classes\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\user\\source\\repos\\Classes\\Classes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Classes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section1\\Classes\\Classes\\Person.cs",
-              "RelativeDocumentMoniker": "Classes\\Person.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section1\\Classes\\Classes\\Person.cs",
-              "RelativeToolTip": "Classes\\Person.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T06:31:08.193Z",
+              "DocumentIndex": 0,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\Classes\\TextFile1.txt",
+              "RelativeDocumentMoniker": "TextFile1.txt",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\Classes\\TextFile1.txt",
+              "RelativeToolTip": "TextFile1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-18T06:20:53.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section1\\Classes\\Classes\\Program.cs",
-              "RelativeDocumentMoniker": "Classes\\Program.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section1\\Classes\\Classes\\Program.cs",
-              "RelativeToolTip": "Classes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\Classes\\Classes\\Person.cs",
+              "RelativeDocumentMoniker": "Classes\\Person.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\Classes\\Classes\\Person.cs",
+              "RelativeToolTip": "Classes\\Person.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T06:30:10.784Z",
+              "WhenOpened": "2024-09-09T13:59:38.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\Classes\\Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Classes\\Program.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\Classes\\Classes\\Program.cs",
+              "RelativeToolTip": "Classes\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:59:13.907Z",
               "EditorCaption": ""
             }
           ]
