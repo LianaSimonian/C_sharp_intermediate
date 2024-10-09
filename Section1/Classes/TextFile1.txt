@@ -1,0 +1,6 @@
+topic
+
+what is a class
+real- world examples of classes 
+what is an object
+static members
