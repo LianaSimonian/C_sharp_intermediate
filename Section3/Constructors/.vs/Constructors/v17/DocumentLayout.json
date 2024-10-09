@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Constructors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CC714C-DF61-4002-9999-CB57440546A3}|Constructors\\Constructors.csproj|d:\\users\\user\\source\\repos\\lrepository\\section3\\constructors\\constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CC714C-DF61-4002-9999-CB57440546A3}|Constructors\\Constructors.csproj|solutionrelative:constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CC714C-DF61-4002-9999-CB57440546A3}|Constructors\\Constructors.csproj|d:\\users\\user\\source\\repos\\lrepository\\section3\\constructors\\constructors\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CC714C-DF61-4002-9999-CB57440546A3}|Constructors\\Constructors.csproj|solutionrelative:constructors\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CC714C-DF61-4002-9999-CB57440546A3}|Constructors\\Constructors.csproj|d:\\users\\user\\source\\repos\\lrepository\\section3\\constructors\\constructors\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CC714C-DF61-4002-9999-CB57440546A3}|Constructors\\Constructors.csproj|solutionrelative:constructors\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Constructors\\Constructors\\Car.cs",
+              "RelativeDocumentMoniker": "Constructors\\Car.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Constructors\\Constructors\\Car.cs",
+              "RelativeToolTip": "Constructors\\Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:35:47.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Constructors\\Constructors\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Constructors\\Vehicle.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Constructors\\Constructors\\Vehicle.cs",
+              "RelativeToolTip": "Constructors\\Vehicle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:32:15.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Constructors\\Constructors\\Program.cs",
+              "RelativeDocumentMoniker": "Constructors\\Program.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Constructors\\Constructors\\Program.cs",
+              "RelativeToolTip": "Constructors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:31:17.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

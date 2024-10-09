@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\AccessModifiers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8719800-E0E9-4962-AFA3-EA5B693B025F}|AccessModifiers\\AccessModifiers.csproj|D:\\Users\\user\\source\\repos\\LRepository\\Section3\\AccessModifiers\\accessmodifiers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8719800-E0E9-4962-AFA3-EA5B693B025F}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8719800-E0E9-4962-AFA3-EA5B693B025F}|AccessModifiers\\AccessModifiers.csproj|d:\\users\\user\\source\\repos\\lrepository\\section3\\accessmodifiers\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8719800-E0E9-4962-AFA3-EA5B693B025F}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\AccessModifiers\\AccessModifiers\\Customer.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\Customer.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\AccessModifiers\\AccessModifiers\\Customer.cs*",
+              "RelativeToolTip": "AccessModifiers\\Customer.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:11:41.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\AccessModifiers\\AccessModifiers\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\Program.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\AccessModifiers\\AccessModifiers\\Program.cs",
+              "RelativeToolTip": "AccessModifiers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:10:59.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Users\user\source\repos\LRepository\Section3\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+D:\Users\user\source\repos\LRepository\Section3\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+D:\Users\user\source\repos\LRepository\Section3\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+D:\Users\user\source\repos\LRepository\Section3\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+D:\Users\user\source\repos\LRepository\Section3\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+D:\Users\user\source\repos\LRepository\Section3\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+D:\Users\user\source\repos\LRepository\Section3\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb
