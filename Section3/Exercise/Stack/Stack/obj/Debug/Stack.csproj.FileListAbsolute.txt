@@ -1,7 +1,0 @@
-D:\Users\user\source\repos\LRepository\Section3\Exercise\Stack\Stack\bin\Debug\Stack.exe.config
-D:\Users\user\source\repos\LRepository\Section3\Exercise\Stack\Stack\bin\Debug\Stack.exe
-D:\Users\user\source\repos\LRepository\Section3\Exercise\Stack\Stack\bin\Debug\Stack.pdb
-D:\Users\user\source\repos\LRepository\Section3\Exercise\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
-D:\Users\user\source\repos\LRepository\Section3\Exercise\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
-D:\Users\user\source\repos\LRepository\Section3\Exercise\Stack\Stack\obj\Debug\Stack.exe
-D:\Users\user\source\repos\LRepository\Section3\Exercise\Stack\Stack\obj\Debug\Stack.pdb

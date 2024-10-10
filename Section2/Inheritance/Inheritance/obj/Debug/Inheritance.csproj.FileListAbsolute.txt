@@ -1,7 +1,0 @@
-D:\Users\user\source\repos\LRepository\Section2\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
-D:\Users\user\source\repos\LRepository\Section2\Inheritance\Inheritance\bin\Debug\Inheritance.exe
-D:\Users\user\source\repos\LRepository\Section2\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
-D:\Users\user\source\repos\LRepository\Section2\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
-D:\Users\user\source\repos\LRepository\Section2\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
-D:\Users\user\source\repos\LRepository\Section2\Inheritance\Inheritance\obj\Debug\Inheritance.exe
-D:\Users\user\source\repos\LRepository\Section2\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

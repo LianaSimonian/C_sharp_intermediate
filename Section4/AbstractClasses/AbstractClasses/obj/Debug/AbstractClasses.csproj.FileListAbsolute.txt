@@ -1,7 +1,0 @@
-D:\Users\user\source\repos\LRepository\Section4\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
-D:\Users\user\source\repos\LRepository\Section4\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
-D:\Users\user\source\repos\LRepository\Section4\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
-D:\Users\user\source\repos\LRepository\Section4\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
-D:\Users\user\source\repos\LRepository\Section4\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
-D:\Users\user\source\repos\LRepository\Section4\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
-D:\Users\user\source\repos\LRepository\Section4\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb

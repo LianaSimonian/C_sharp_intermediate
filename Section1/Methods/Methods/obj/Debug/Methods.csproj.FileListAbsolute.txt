@@ -1,7 +1,0 @@
-D:\Users\user\source\repos\LRepository 1\Methods\Methods\bin\Debug\Methods.exe.config
-D:\Users\user\source\repos\LRepository 1\Methods\Methods\bin\Debug\Methods.exe
-D:\Users\user\source\repos\LRepository 1\Methods\Methods\bin\Debug\Methods.pdb
-D:\Users\user\source\repos\LRepository 1\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
-D:\Users\user\source\repos\LRepository 1\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
-D:\Users\user\source\repos\LRepository 1\Methods\Methods\obj\Debug\Methods.exe
-D:\Users\user\source\repos\LRepository 1\Methods\Methods\obj\Debug\Methods.pdb

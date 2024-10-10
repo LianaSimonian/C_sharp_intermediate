@@ -1,7 +1,0 @@
-D:\Users\user\source\repos\LRepository\Section1\Exercises\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.exe.config
-D:\Users\user\source\repos\LRepository\Section1\Exercises\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.exe
-D:\Users\user\source\repos\LRepository\Section1\Exercises\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.pdb
-D:\Users\user\source\repos\LRepository\Section1\Exercises\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.csproj.AssemblyReference.cache
-D:\Users\user\source\repos\LRepository\Section1\Exercises\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.csproj.CoreCompileInputs.cache
-D:\Users\user\source\repos\LRepository\Section1\Exercises\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.exe
-D:\Users\user\source\repos\LRepository\Section1\Exercises\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.pdb

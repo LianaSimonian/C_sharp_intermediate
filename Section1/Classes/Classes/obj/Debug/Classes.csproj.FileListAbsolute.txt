@@ -1,7 +1,0 @@
-D:\Users\user\source\repos\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
-D:\Users\user\source\repos\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
-D:\Users\user\source\repos\Classes\Classes\bin\Debug\Classes.exe.config
-D:\Users\user\source\repos\Classes\Classes\bin\Debug\Classes.exe
-D:\Users\user\source\repos\Classes\Classes\bin\Debug\Classes.pdb
-D:\Users\user\source\repos\Classes\Classes\obj\Debug\Classes.exe
-D:\Users\user\source\repos\Classes\Classes\obj\Debug\Classes.pdb

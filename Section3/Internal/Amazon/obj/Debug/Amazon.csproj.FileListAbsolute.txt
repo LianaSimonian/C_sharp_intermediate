@@ -1,6 +1,0 @@
-D:\Users\user\source\repos\LRepository\Section3\Internal\Amazon\bin\Debug\Amazon.dll
-D:\Users\user\source\repos\LRepository\Section3\Internal\Amazon\bin\Debug\Amazon.pdb
-D:\Users\user\source\repos\LRepository\Section3\Internal\Amazon\obj\Debug\Amazon.csproj.AssemblyReference.cache
-D:\Users\user\source\repos\LRepository\Section3\Internal\Amazon\obj\Debug\Amazon.csproj.CoreCompileInputs.cache
-D:\Users\user\source\repos\LRepository\Section3\Internal\Amazon\obj\Debug\Amazon.dll
-D:\Users\user\source\repos\LRepository\Section3\Internal\Amazon\obj\Debug\Amazon.pdb

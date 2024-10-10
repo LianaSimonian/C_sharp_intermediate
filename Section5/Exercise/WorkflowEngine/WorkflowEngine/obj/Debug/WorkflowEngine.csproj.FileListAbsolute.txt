@@ -1,7 +1,0 @@
-D:\Users\user\source\repos\LRepository\Section5\Exercise\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.AssemblyReference.cache
-D:\Users\user\source\repos\LRepository\Section5\Exercise\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.CoreCompileInputs.cache
-D:\Users\user\source\repos\LRepository\Section5\Exercise\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.exe.config
-D:\Users\user\source\repos\LRepository\Section5\Exercise\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.exe
-D:\Users\user\source\repos\LRepository\Section5\Exercise\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.pdb
-D:\Users\user\source\repos\LRepository\Section5\Exercise\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.exe
-D:\Users\user\source\repos\LRepository\Section5\Exercise\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.pdb
