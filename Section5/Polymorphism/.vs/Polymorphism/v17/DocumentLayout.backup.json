@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Polymorphism\\",
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|d:\\users\\user\\source\\repos\\lrepository\\section5\\polymorphism\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|d:\\users\\user\\source\\repos\\clonereposi\\c_sharp_intermediate\\section5\\polymorphism\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|d:\\users\\user\\source\\repos\\lrepository\\section5\\polymorphism\\polymorphism\\videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\polymorphism\\videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|d:\\users\\user\\source\\repos\\lrepository\\section5\\polymorphism\\polymorphism\\smsnotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\polymorphism\\smsnotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\smsnotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|d:\\users\\user\\source\\repos\\lrepository\\section5\\polymorphism\\polymorphism\\mailnotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\polymorphism\\mailnotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\mailnotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|d:\\users\\user\\source\\repos\\lrepository\\section5\\polymorphism\\polymorphism\\inotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\polymorphism\\inotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F97168A-FF6F-49D4-B288-0B537C25AAE0}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\inotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,63 +48,59 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "VideoEncoder.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Polymorphism\\Polymorphism\\VideoEncoder.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\Polymorphism\\VideoEncoder.cs",
               "RelativeDocumentMoniker": "Polymorphism\\VideoEncoder.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Polymorphism\\Polymorphism\\VideoEncoder.cs*",
-              "RelativeToolTip": "Polymorphism\\VideoEncoder.cs*",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\Polymorphism\\VideoEncoder.cs",
+              "RelativeToolTip": "Polymorphism\\VideoEncoder.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T14:11:41.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T14:11:41.899Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SmsNotificationChannel.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Polymorphism\\Polymorphism\\SmsNotificationChannel.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\Polymorphism\\SmsNotificationChannel.cs",
               "RelativeDocumentMoniker": "Polymorphism\\SmsNotificationChannel.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Polymorphism\\Polymorphism\\SmsNotificationChannel.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\Polymorphism\\SmsNotificationChannel.cs",
               "RelativeToolTip": "Polymorphism\\SmsNotificationChannel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T14:08:26.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T14:08:26.839Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MailNotificationChannel.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Polymorphism\\Polymorphism\\MailNotificationChannel.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\Polymorphism\\MailNotificationChannel.cs",
               "RelativeDocumentMoniker": "Polymorphism\\MailNotificationChannel.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Polymorphism\\Polymorphism\\MailNotificationChannel.cs*",
-              "RelativeToolTip": "Polymorphism\\MailNotificationChannel.cs*",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\Polymorphism\\MailNotificationChannel.cs",
+              "RelativeToolTip": "Polymorphism\\MailNotificationChannel.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T14:06:28.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T14:06:28.553Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "INotificationChannel.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Polymorphism\\Polymorphism\\INotificationChannel.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\Polymorphism\\INotificationChannel.cs",
               "RelativeDocumentMoniker": "Polymorphism\\INotificationChannel.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Polymorphism\\Polymorphism\\INotificationChannel.cs*",
-              "RelativeToolTip": "Polymorphism\\INotificationChannel.cs*",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\Polymorphism\\INotificationChannel.cs",
+              "RelativeToolTip": "Polymorphism\\INotificationChannel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T14:04:00.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T14:04:00.633Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Polymorphism\\Polymorphism\\Program.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\Polymorphism\\Program.cs",
               "RelativeDocumentMoniker": "Polymorphism\\Program.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Polymorphism\\Polymorphism\\Program.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Polymorphism\\Polymorphism\\Program.cs",
               "RelativeToolTip": "Polymorphism\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T13:57:01.364Z",
               "EditorCaption": ""

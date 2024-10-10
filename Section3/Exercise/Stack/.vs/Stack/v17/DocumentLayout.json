@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Exercise\\Stack\\",
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\Exercise\\Stack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A422EA84-8F09-420F-9A16-667301A746DF}|Stack\\Stack.csproj|d:\\users\\user\\source\\repos\\lrepository\\section3\\exercise\\stack\\stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A422EA84-8F09-420F-9A16-667301A746DF}|Stack\\Stack.csproj|d:\\users\\user\\source\\repos\\clonereposi\\c_sharp_intermediate\\section3\\exercise\\stack\\stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A422EA84-8F09-420F-9A16-667301A746DF}|Stack\\Stack.csproj|solutionrelative:stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A422EA84-8F09-420F-9A16-667301A746DF}|Stack\\Stack.csproj|D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Exercise\\Stack\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A422EA84-8F09-420F-9A16-667301A746DF}|Stack\\Stack.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\Exercise\\Stack\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A422EA84-8F09-420F-9A16-667301A746DF}|Stack\\Stack.csproj|solutionrelative:stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Stack.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Exercise\\Stack\\Stack\\Stack.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\Exercise\\Stack\\Stack\\Stack.cs",
               "RelativeDocumentMoniker": "Stack\\Stack.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Exercise\\Stack\\Stack\\Stack.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\Exercise\\Stack\\Stack\\Stack.cs",
               "RelativeToolTip": "Stack\\Stack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,12 +43,16 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Exercise\\Stack\\Stack\\Program.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\Exercise\\Stack\\Stack\\Program.cs",
               "RelativeDocumentMoniker": "Stack\\Program.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\Exercise\\Stack\\Stack\\Program.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\Exercise\\Stack\\Stack\\Program.cs",
               "RelativeToolTip": "Stack\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

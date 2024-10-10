@@ -1,7 +1,7 @@
-D:\Users\user\source\repos\LRepository\Section1\Exercises\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
-D:\Users\user\source\repos\LRepository\Section1\Exercises\Exercise1\Exercise1\bin\Debug\Exercise1.exe
-D:\Users\user\source\repos\LRepository\Section1\Exercises\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
-D:\Users\user\source\repos\LRepository\Section1\Exercises\Exercise1\Exercise1\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
-D:\Users\user\source\repos\LRepository\Section1\Exercises\Exercise1\Exercise1\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
-D:\Users\user\source\repos\LRepository\Section1\Exercises\Exercise1\Exercise1\obj\Debug\Exercise1.exe
-D:\Users\user\source\repos\LRepository\Section1\Exercises\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
+D:\Users\user\source\repos\LRepository 1\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+D:\Users\user\source\repos\LRepository 1\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+D:\Users\user\source\repos\LRepository 1\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+D:\Users\user\source\repos\LRepository 1\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+D:\Users\user\source\repos\LRepository 1\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+D:\Users\user\source\repos\LRepository 1\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+D:\Users\user\source\repos\LRepository 1\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb

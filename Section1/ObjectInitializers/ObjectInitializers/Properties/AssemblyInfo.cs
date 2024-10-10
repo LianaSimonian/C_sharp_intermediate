@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ObjectInitializer")]
+[assembly: AssemblyTitle("ObjectInitializers")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ObjectInitializer")]
+[assembly: AssemblyProduct("ObjectInitializers")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4041fa05-d7db-4b87-81b6-5f8fc0899bf9")]
+[assembly: Guid("efc5357f-3636-45b8-ad0f-c6f03e6e84d2")]
 
 // Version information for an assembly consists of the following four values:
 //

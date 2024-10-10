@@ -1,7 +1,7 @@
-D:\Users\user\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
-D:\Users\user\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
-D:\Users\user\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
-D:\Users\user\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Methods.csproj.AssemblyReference.cache
-D:\Users\user\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Methods.csproj.CoreCompileInputs.cache
-D:\Users\user\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
-D:\Users\user\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+D:\Users\user\source\repos\LRepository 1\Methods\Methods\bin\Debug\Methods.exe.config
+D:\Users\user\source\repos\LRepository 1\Methods\Methods\bin\Debug\Methods.exe
+D:\Users\user\source\repos\LRepository 1\Methods\Methods\bin\Debug\Methods.pdb
+D:\Users\user\source\repos\LRepository 1\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+D:\Users\user\source\repos\LRepository 1\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\Users\user\source\repos\LRepository 1\Methods\Methods\obj\Debug\Methods.exe
+D:\Users\user\source\repos\LRepository 1\Methods\Methods\obj\Debug\Methods.pdb

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\WpfApp1\\",
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\WpfApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C20E1969-5B82-404E-8999-A7DD7EFA8D7F}|WpfApp1\\WpfApp1.csproj|d:\\users\\user\\source\\repos\\lrepository\\section3\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C20E1969-5B82-404E-8999-A7DD7EFA8D7F}|WpfApp1\\WpfApp1.csproj|d:\\users\\user\\source\\repos\\clonereposi\\c_sharp_intermediate\\section3\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C20E1969-5B82-404E-8999-A7DD7EFA8D7F}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C20E1969-5B82-404E-8999-A7DD7EFA8D7F}|WpfApp1\\WpfApp1.csproj|d:\\users\\user\\source\\repos\\lrepository\\section3\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C20E1969-5B82-404E-8999-A7DD7EFA8D7F}|WpfApp1\\WpfApp1.csproj|d:\\users\\user\\source\\repos\\clonereposi\\c_sharp_intermediate\\section3\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C20E1969-5B82-404E-8999-A7DD7EFA8D7F}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,24 +29,27 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\WpfApp1\\WpfApp1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\WpfApp1\\WpfApp1\\MainWindow.xaml",
               "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-27T17:12:18.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T17:12:18.904Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

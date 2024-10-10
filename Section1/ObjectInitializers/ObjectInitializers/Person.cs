@@ -11,15 +11,15 @@ namespace ObjectInitializers
 
         public Person()
         {
-            
+
         }
         public Person(int id)
         {
-            Id = id;   
+            Id = id;
         }
         public Person(int id, string firstName)
         {
-            Id=id;
+            Id = id;
             FirstName = firstName;
         }
         public Person(int id, string firstName, string lastName)
@@ -35,3 +35,5 @@ namespace ObjectInitializers
         }
     }
 }
+
+

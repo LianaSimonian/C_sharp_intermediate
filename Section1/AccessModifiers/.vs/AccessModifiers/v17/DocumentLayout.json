@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository \u2014 \u043A\u043E\u043F\u0438\u044F\\Section1\\AccessModifiers\\",
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section1\\AccessModifiers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B81C7A87-6200-45E1-9D6C-213FBF602EC6}|AccessModifiers\\AccessModifiers.csproj|d:\\users\\user\\source\\repos\\lrepository \u2014 \u043A\u043E\u043F\u0438\u044F\\section1\\accessmodifiers\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B81C7A87-6200-45E1-9D6C-213FBF602EC6}|AccessModifiers\\AccessModifiers.csproj|d:\\users\\user\\source\\repos\\clonereposi\\c_sharp_intermediate\\section1\\accessmodifiers\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B81C7A87-6200-45E1-9D6C-213FBF602EC6}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B81C7A87-6200-45E1-9D6C-213FBF602EC6}|AccessModifiers\\AccessModifiers.csproj|D:\\Users\\user\\source\\repos\\LRepository \u2014 \u043A\u043E\u043F\u0438\u044F\\Section1\\AccessModifiers\\accessmodifiers\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B81C7A87-6200-45E1-9D6C-213FBF602EC6}|AccessModifiers\\AccessModifiers.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section1\\AccessModifiers\\accessmodifiers\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B81C7A87-6200-45E1-9D6C-213FBF602EC6}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Person.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository \u2014 \u043A\u043E\u043F\u0438\u044F\\Section1\\AccessModifiers\\AccessModifiers\\Person.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section1\\AccessModifiers\\AccessModifiers\\Person.cs",
               "RelativeDocumentMoniker": "AccessModifiers\\Person.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository \u2014 \u043A\u043E\u043F\u0438\u044F\\Section1\\AccessModifiers\\AccessModifiers\\Person.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section1\\AccessModifiers\\AccessModifiers\\Person.cs",
               "RelativeToolTip": "AccessModifiers\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository \u2014 \u043A\u043E\u043F\u0438\u044F\\Section1\\AccessModifiers\\AccessModifiers\\Program.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section1\\AccessModifiers\\AccessModifiers\\Program.cs",
               "RelativeDocumentMoniker": "AccessModifiers\\Program.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository \u2014 \u043A\u043E\u043F\u0438\u044F\\Section1\\AccessModifiers\\AccessModifiers\\Program.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section1\\AccessModifiers\\AccessModifiers\\Program.cs",
               "RelativeToolTip": "AccessModifiers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T15:16:32.511Z",
               "EditorCaption": ""

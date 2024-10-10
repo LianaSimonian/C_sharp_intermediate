@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\MultipleInheritance\\",
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|d:\\users\\user\\source\\repos\\lrepository\\section5\\multipleinheritance\\multipleinheritance\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|d:\\users\\user\\source\\repos\\clonereposi\\c_sharp_intermediate\\section5\\multipleinheritance\\multipleinheritance\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|solutionrelative:multipleinheritance\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\34e4aa09-5700-427b-b0c5-e98aa6c79368_CSharpIntermediate.zip.368\\CSharpIntermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\UiControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\multipleinheritance\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|solutionrelative:multipleinheritance\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|d:\\users\\user\\source\\repos\\lrepository\\section5\\multipleinheritance\\multipleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\multipleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|solutionrelative:multipleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|d:\\users\\user\\source\\repos\\lrepository\\section5\\multipleinheritance\\multipleinheritance\\idroppable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\multipleinheritance\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|solutionrelative:multipleinheritance\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\multipleinheritance\\idroppable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|solutionrelative:multipleinheritance\\idroppable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\multipleinheritance\\idraggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0D5C53-6B68-4934-94E6-D1CF45EBCEF2}|MultipleInheritance\\MultipleInheritance.csproj|solutionrelative:multipleinheritance\\idraggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\34e4aa09-5700-427b-b0c5-e98aa6c79368_CSharpIntermediate.zip.368\\CSharpIntermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\UiControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,20 +53,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IDroppable.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\MultipleInheritance\\MultipleInheritance\\IDroppable.cs",
-              "RelativeDocumentMoniker": "MultipleInheritance\\IDroppable.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\MultipleInheritance\\MultipleInheritance\\IDroppable.cs",
-              "RelativeToolTip": "MultipleInheritance\\IDroppable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Size.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\Size.cs",
+              "RelativeDocumentMoniker": "MultipleInheritance\\Size.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\Size.cs",
+              "RelativeToolTip": "MultipleInheritance\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T09:56:10.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T10:35:18.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Position.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\Position.cs",
+              "RelativeDocumentMoniker": "MultipleInheritance\\Position.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\Position.cs",
+              "RelativeToolTip": "MultipleInheritance\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:35:12.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDraggable.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\IDraggable.cs",
+              "RelativeDocumentMoniker": "MultipleInheritance\\IDraggable.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\IDraggable.cs",
+              "RelativeToolTip": "MultipleInheritance\\IDraggable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:35:06.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDroppable.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\IDroppable.cs",
+              "RelativeDocumentMoniker": "MultipleInheritance\\IDroppable.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\IDroppable.cs",
+              "RelativeToolTip": "MultipleInheritance\\IDroppable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:56:10.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UiControl.cs",
               "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\34e4aa09-5700-427b-b0c5-e98aa6c79368_CSharpIntermediate.zip.368\\CSharpIntermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\UiControl.cs",
               "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\34e4aa09-5700-427b-b0c5-e98aa6c79368_CSharpIntermediate.zip.368\\CSharpIntermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\UiControl.cs [Read Only]",
@@ -67,11 +114,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UiControl.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\MultipleInheritance\\MultipleInheritance\\UiControl.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\UiControl.cs",
               "RelativeDocumentMoniker": "MultipleInheritance\\UiControl.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\MultipleInheritance\\MultipleInheritance\\UiControl.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\UiControl.cs",
               "RelativeToolTip": "MultipleInheritance\\UiControl.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T09:23:00.317Z",
               "EditorCaption": ""
@@ -80,14 +127,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\MultipleInheritance\\MultipleInheritance\\Program.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\Program.cs",
               "RelativeDocumentMoniker": "MultipleInheritance\\Program.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\MultipleInheritance\\MultipleInheritance\\Program.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\MultipleInheritance\\MultipleInheritance\\Program.cs",
               "RelativeToolTip": "MultipleInheritance\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:48:07.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T18:48:07.276Z"
             }
           ]
         }

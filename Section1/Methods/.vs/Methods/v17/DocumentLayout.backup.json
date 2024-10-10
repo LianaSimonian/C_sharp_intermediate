@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\ConsoleApp2\\",
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository 1\\Methods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85957685-60FA-4282-8629-1D0D4DBFDB1E}|ConsoleApp2\\Methods.csproj|D:\\Users\\user\\source\\repos\\ConsoleApp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85957685-60FA-4282-8629-1D0D4DBFDB1E}|ConsoleApp2\\Methods.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD95B9A8-7E8F-4265-922C-16A3A38E4EE4}|Methods\\Methods.csproj|d:\\users\\user\\source\\repos\\lrepository 1\\methods\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD95B9A8-7E8F-4265-922C-16A3A38E4EE4}|Methods\\Methods.csproj|solutionrelative:methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85957685-60FA-4282-8629-1D0D4DBFDB1E}|ConsoleApp2\\Methods.csproj|d:\\users\\user\\source\\repos\\consoleapp2\\consoleapp2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85957685-60FA-4282-8629-1D0D4DBFDB1E}|ConsoleApp2\\Methods.csproj|solutionrelative:consoleapp2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD95B9A8-7E8F-4265-922C-16A3A38E4EE4}|Methods\\Methods.csproj|D:\\Users\\user\\source\\repos\\LRepository 1\\Methods\\methods\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD95B9A8-7E8F-4265-922C-16A3A38E4EE4}|Methods\\Methods.csproj|solutionrelative:methods\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85957685-60FA-4282-8629-1D0D4DBFDB1E}|ConsoleApp2\\Methods.csproj|D:\\Users\\user\\source\\repos\\ConsoleApp2\\consoleapp2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85957685-60FA-4282-8629-1D0D4DBFDB1E}|ConsoleApp2\\Methods.csproj|solutionrelative:consoleapp2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD95B9A8-7E8F-4265-922C-16A3A38E4EE4}|Methods\\Methods.csproj|D:\\Users\\user\\source\\repos\\LRepository 1\\Methods\\methods\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD95B9A8-7E8F-4265-922C-16A3A38E4EE4}|Methods\\Methods.csproj|solutionrelative:methods\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Point.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Point.cs",
-              "RelativeDocumentMoniker": "ConsoleApp2\\Point.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Point.cs",
-              "RelativeToolTip": "ConsoleApp2\\Point.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository 1\\Methods\\Methods\\Point.cs",
+              "RelativeDocumentMoniker": "Methods\\Point.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository 1\\Methods\\Methods\\Point.cs",
+              "RelativeToolTip": "Methods\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T13:14:23.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T04:59:06.036Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Calculator.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Calculator.cs",
-              "RelativeDocumentMoniker": "ConsoleApp2\\Calculator.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Calculator.cs",
-              "RelativeToolTip": "ConsoleApp2\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository 1\\Methods\\Methods\\Calculator.cs",
+              "RelativeDocumentMoniker": "Methods\\Calculator.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository 1\\Methods\\Methods\\Calculator.cs",
+              "RelativeToolTip": "Methods\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T13:37:11.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T04:58:12.745Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
-              "RelativeToolTip": "ConsoleApp2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository 1\\Methods\\Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Methods\\Program.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository 1\\Methods\\Methods\\Program.cs",
+              "RelativeToolTip": "Methods\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T13:14:27.171Z",
+              "WhenOpened": "2024-10-10T04:57:29.152Z",
               "EditorCaption": ""
             }
           ]

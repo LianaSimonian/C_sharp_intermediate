@@ -1,5 +1,4 @@
-﻿
-namespace Methods
+﻿namespace Methods
 {
     internal class Calculator
     {

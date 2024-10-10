@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace Methods
-{ 
+{
     internal class Program
     {
         static void Main(string[] args)
@@ -15,13 +15,13 @@ namespace Methods
                 Console.WriteLine("conversion failed");
             }
 
-           int number;
-           var result = int.TryParse("abc", out number);
+            int number;
+            var result = int.TryParse("abc", out number);
             if (result)
                 Console.WriteLine(number);
             else
                 Console.WriteLine("conversion failed");
-            
+
         }
 
         static void UseParams()
@@ -32,7 +32,8 @@ namespace Methods
             Console.WriteLine(calculator.Add());
             Console.WriteLine(calculator.Add(new int[] { 1, 4, 5, 7, 8 }));
         }
-        static void UsePoints() {
+        static void UsePoints()
+        {
             var point = new Point(10, 20);
             try
             {
@@ -49,3 +50,4 @@ namespace Methods
         }
     }
 }
+

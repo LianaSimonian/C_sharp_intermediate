@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
+    "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
   },
   "projects": {
-    "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
+    "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectUniqueName": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
         "projectName": "WpfApp1",
-        "projectPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectPath": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section3\\WpfApp1\\WpfApp1\\obj\\",
+        "outputPath": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section3\\WpfApp1\\WpfApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

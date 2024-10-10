@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\",
+  "WorkspaceRootPath": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9431305D-20CC-4D2F-8B9A-64D41F2DE35C}|Testability.Tests\\Testability.UnitTests.csproj|d:\\users\\user\\source\\repos\\lrepository\\section5\\testability\\testability.tests\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9431305D-20CC-4D2F-8B9A-64D41F2DE35C}|Testability.Tests\\Testability.UnitTests.csproj|d:\\users\\user\\source\\repos\\clonereposi\\c_sharp_intermediate\\section5\\testability\\testability.tests\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9431305D-20CC-4D2F-8B9A-64D41F2DE35C}|Testability.Tests\\Testability.UnitTests.csproj|solutionrelative:testability.tests\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\testability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\testability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|solutionrelative:testability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\testability\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\testability\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|solutionrelative:testability\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\testability\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\testability\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|solutionrelative:testability\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\testability\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\testability\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|solutionrelative:testability\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\testability\\shippingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\testability\\shippingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B620F9-A8CA-4B41-8390-3F9FBE1E3AEE}|Testability\\Testability.csproj|solutionrelative:testability\\shippingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -52,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "OrderProcessorTests.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\Testability.Tests\\OrderProcessorTests.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\Testability.Tests\\OrderProcessorTests.cs",
               "RelativeDocumentMoniker": "Testability.Tests\\OrderProcessorTests.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\Testability.Tests\\OrderProcessorTests.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\Testability.Tests\\OrderProcessorTests.cs",
               "RelativeToolTip": "Testability.Tests\\OrderProcessorTests.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,66 +65,61 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ShippingCalculator.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\Testability\\ShippingCalculator.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\Testability\\ShippingCalculator.cs",
               "RelativeDocumentMoniker": "Testability\\ShippingCalculator.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\Testability\\ShippingCalculator.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\Testability\\ShippingCalculator.cs",
               "RelativeToolTip": "Testability\\ShippingCalculator.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T13:57:41.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T13:57:41.971Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Shipment.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\Testability\\Shipment.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\Testability\\Shipment.cs",
               "RelativeDocumentMoniker": "Testability\\Shipment.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\Testability\\Shipment.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\Testability\\Shipment.cs",
               "RelativeToolTip": "Testability\\Shipment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T13:57:41.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T13:57:41.002Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "OrderProcessor.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\Testability\\OrderProcessor.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\Testability\\OrderProcessor.cs",
               "RelativeDocumentMoniker": "Testability\\OrderProcessor.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\Testability\\OrderProcessor.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\Testability\\OrderProcessor.cs",
               "RelativeToolTip": "Testability\\OrderProcessor.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T13:57:38.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T13:57:38.611Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\Testability\\Order.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\Testability\\Order.cs",
               "RelativeDocumentMoniker": "Testability\\Order.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\Testability\\Order.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\Testability\\Order.cs",
               "RelativeToolTip": "Testability\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T13:57:37.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T13:57:37.064Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\Testability\\Program.cs",
+              "DocumentMoniker": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\Testability\\Program.cs",
               "RelativeDocumentMoniker": "Testability\\Program.cs",
-              "ToolTip": "D:\\Users\\user\\source\\repos\\LRepository\\Section5\\Testability\\Testability\\Program.cs",
+              "ToolTip": "D:\\Users\\user\\source\\repos\\CloneReposi\\C_sharp_intermediate\\Section5\\Testability\\Testability\\Program.cs",
               "RelativeToolTip": "Testability\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T09:40:30.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T09:40:30.694Z"
             }
           ]
         }

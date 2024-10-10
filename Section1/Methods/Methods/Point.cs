@@ -18,10 +18,12 @@ namespace Methods
 
         }
         public void Move(Point newLocation)
-        {if (newLocation == null)
+        {
+            if (newLocation == null)
                 throw new ArgumentNullException(nameof(newLocation));
             Move(newLocation.X, newLocation.Y);
         }
     }
 }
+
 

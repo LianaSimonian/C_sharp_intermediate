@@ -5,3 +5,10 @@ D:\Users\user\source\repos\LRepository\Section3\Casting\Casting\obj\Debug\Castin
 D:\Users\user\source\repos\LRepository\Section3\Casting\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
 D:\Users\user\source\repos\LRepository\Section3\Casting\Casting\obj\Debug\Casting.exe
 D:\Users\user\source\repos\LRepository\Section3\Casting\Casting\obj\Debug\Casting.pdb
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section3\Casting\Casting\bin\Debug\Casting.exe.config
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section3\Casting\Casting\bin\Debug\Casting.exe
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section3\Casting\Casting\bin\Debug\Casting.pdb
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section3\Casting\Casting\obj\Debug\Casting.csproj.AssemblyReference.cache
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section3\Casting\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section3\Casting\Casting\obj\Debug\Casting.exe
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section3\Casting\Casting\obj\Debug\Casting.pdb

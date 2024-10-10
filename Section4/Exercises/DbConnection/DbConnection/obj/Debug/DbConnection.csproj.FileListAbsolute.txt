@@ -5,3 +5,10 @@ D:\Users\user\source\repos\LRepository\Section4\Exercises\DbConnection\DbConnect
 D:\Users\user\source\repos\LRepository\Section4\Exercises\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.CoreCompileInputs.cache
 D:\Users\user\source\repos\LRepository\Section4\Exercises\DbConnection\DbConnection\obj\Debug\DbConnection.exe
 D:\Users\user\source\repos\LRepository\Section4\Exercises\DbConnection\DbConnection\obj\Debug\DbConnection.pdb
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section4\Exercises\DbConnection\DbConnection\bin\Debug\DbConnection.exe.config
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section4\Exercises\DbConnection\DbConnection\bin\Debug\DbConnection.exe
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section4\Exercises\DbConnection\DbConnection\bin\Debug\DbConnection.pdb
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section4\Exercises\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.AssemblyReference.cache
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section4\Exercises\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.CoreCompileInputs.cache
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section4\Exercises\DbConnection\DbConnection\obj\Debug\DbConnection.exe
+D:\Users\user\source\repos\CloneReposi\C_sharp_intermediate\Section4\Exercises\DbConnection\DbConnection\obj\Debug\DbConnection.pdb

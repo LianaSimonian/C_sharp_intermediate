@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4041FA05-D7DB-4B87-81B6-5F8FC0899BF9}</ProjectGuid>
+    <ProjectGuid>{EFC5357F-3636-45B8-AD0F-C6F03E6E84D2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ObjectInitializer</RootNamespace>
-    <AssemblyName>ObjectInitializer</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>ObjectInitializers</RootNamespace>
+    <AssemblyName>ObjectInitializers</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
